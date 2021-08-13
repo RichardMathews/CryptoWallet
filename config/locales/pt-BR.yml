@@ -1,0 +1,13 @@
+pt-BR:
+  hello: "Seja Bem-Vindo!"
+  coins: "Moedas"
+  mining_type: "Tipos de mineração"
+  message: "Selecione uma das opções abaixo"
+  confirm_message: "Tem certeza?"
+  select: 'Selecione...'
+  links:
+    edit: "Editar"
+    show: "Mostrar"
+    delete: "Deletar"
+    new: "Novo"
+    back: "Voltar"
